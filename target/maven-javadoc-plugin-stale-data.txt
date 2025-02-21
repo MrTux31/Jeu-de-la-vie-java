@@ -1,0 +1,52 @@
+@options
+@packages
+@argfile
+-encoding
+'Cp1252'
+-protected
+-source
+'8'
+-sourcepath
+'C:/Users/Quentin/Documents/JeuDeLaVie/jeu_de_la_vie/src/main/java;C:/Users/Quentin/Documents/JeuDeLaVie/jeu_de_la_vie/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Quentin/Documents/JeuDeLaVie/jeu_de_la_vie/target/site/apidocs'
+-docencoding
+'UTF-8'
+-Xdoclint:none
+-doctitle
+'jeu_de_la_vie 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/Quentin/Documents/JeuDeLaVie/jeu_de_la_vie/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'jeu_de_la_vie 1.0-SNAPSHOT API'
+com.jeudelavie
+'C:/Users/Quentin/Documents/JeuDeLaVie/jeu_de_la_vie/src/main/java/com/jeudelavie/JeuDeLaVie.java'
+'C:/Users/Quentin/Documents/JeuDeLaVie/jeu_de_la_vie/src/main/java/com/jeudelavie/Main.java'
+'C:/Users/Quentin/Documents/JeuDeLaVie/jeu_de_la_vie/src/main/java/com/jeudelavie/MatriceEntier.java'
+'C:/Users/Quentin/Documents/JeuDeLaVie/jeu_de_la_vie/src/main/java/com/jeudelavie/ProgrammeMatriceEntier.java'
+'C:/Users/Quentin/Documents/JeuDeLaVie/jeu_de_la_vie/src/main/java/com/jeudelavie/TNPS.java'
+C:\Users\Quentin\Documents\JeuDeLaVie\jeu_de_la_vie\src\main\java = 1740148237940
+C:\Users\Quentin\Documents\JeuDeLaVie\jeu_de_la_vie\target\generated-sources\annotations = 1740151242906
+C:\Users\Quentin\Documents\JeuDeLaVie\jeu_de_la_vie\target\site\apidocs\allclasses-index.html = 1740151251286
+C:\Users\Quentin\Documents\JeuDeLaVie\jeu_de_la_vie\target\site\apidocs\allpackages-index.html = 1740151251288
+C:\Users\Quentin\Documents\JeuDeLaVie\jeu_de_la_vie\target\site\apidocs\element-list = 1740151251233
+C:\Users\Quentin\Documents\JeuDeLaVie\jeu_de_la_vie\target\site\apidocs\help-doc.html = 1740151251308
+C:\Users\Quentin\Documents\JeuDeLaVie\jeu_de_la_vie\target\site\apidocs\index-all.html = 1740151251303
+C:\Users\Quentin\Documents\JeuDeLaVie\jeu_de_la_vie\target\site\apidocs\index.html = 1740151251305
+C:\Users\Quentin\Documents\JeuDeLaVie\jeu_de_la_vie\target\site\apidocs\jquery-ui.overrides.css = 1740151251321
+C:\Users\Quentin\Documents\JeuDeLaVie\jeu_de_la_vie\target\site\apidocs\member-search-index.js = 1740151251293
+C:\Users\Quentin\Documents\JeuDeLaVie\jeu_de_la_vie\target\site\apidocs\module-search-index.js = 1740151251289
+C:\Users\Quentin\Documents\JeuDeLaVie\jeu_de_la_vie\target\site\apidocs\overview-tree.html = 1740151251273
+C:\Users\Quentin\Documents\JeuDeLaVie\jeu_de_la_vie\target\site\apidocs\package-search-index.js = 1740151251291
+C:\Users\Quentin\Documents\JeuDeLaVie\jeu_de_la_vie\target\site\apidocs\script.js = 1740151251311
+C:\Users\Quentin\Documents\JeuDeLaVie\jeu_de_la_vie\target\site\apidocs\search.js = 1740151251312
+C:\Users\Quentin\Documents\JeuDeLaVie\jeu_de_la_vie\target\site\apidocs\stylesheet.css = 1740151251310
+C:\Users\Quentin\Documents\JeuDeLaVie\jeu_de_la_vie\target\site\apidocs\tag-search-index.js = 1740151251293
+C:\Users\Quentin\Documents\JeuDeLaVie\jeu_de_la_vie\target\site\apidocs\type-search-index.js = 1740151251292
